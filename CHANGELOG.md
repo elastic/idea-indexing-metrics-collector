@@ -4,6 +4,8 @@
 
 ## Unreleased
 
+## 0.10.5 - 2022-12-09
+
 ### Changed
 - Fix index and connection check
 
