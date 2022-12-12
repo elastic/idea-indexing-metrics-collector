@@ -57,9 +57,9 @@ for this plugin was born.
 
   - In <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Manage plugin repositories...</kbd> 
   add 
-   - for 2022.3.x use [https://raw.githubusercontent.com/elastic/indexing-metrics-collector/main/updatePlugins-223.xml](https://raw.githubusercontent.com/idea/indexing-metrics-collector/main/updatePlugins-223.xml)
-   - for 2022.2.x use [https://raw.githubusercontent.com/elastic/indexing-metrics-collector/main/updatePlugins-221.xml](https://raw.githubusercontent.com/idea/indexing-metrics-collector/main/updatePlugins-221.xml)
-    - for 2022.1.3+ use [https://raw.githubusercontent.com/elastic/indexing-metrics-collector/main/updatePlugins-213.xml](https://raw.githubusercontent.com/idea/indexing-metrics-collector/main/updatePlugins-213.xml)
+   - for 2022.3.x use [https://raw.githubusercontent.com/elastic/indexing-metrics-collector/main/updatePlugins-223.xml](https://raw.githubusercontent.com/elastic/indexing-metrics-collector/main/updatePlugins-223.xml)
+   - for 2022.2.x use [https://raw.githubusercontent.com/elastic/indexing-metrics-collector/main/updatePlugins-221.xml](https://raw.githubusercontent.com/elastic/indexing-metrics-collector/main/updatePlugins-221.xml)
+    - for 2022.1.3+ use [https://raw.githubusercontent.com/elastic/indexing-metrics-collector/main/updatePlugins-213.xml](https://raw.githubusercontent.com/elastic/indexing-metrics-collector/main/updatePlugins-213.xml)
   - Install <b>indexing-metrics-collector</b> plugin
 
 - Manually:
