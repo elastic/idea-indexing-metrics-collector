@@ -2,7 +2,7 @@
 
 <!-- Plugin description -->
 Allows gathering [IntelliJ IDEA](https://www.jetbrains.com/idea/) project scanning & indexing metrics for further analysis by ingesting them into an [elasticsearch](https://www.elastic.co/elasticsearch/elasticsearch) cluster.
-
+test
 * [Project Home](https://github.com/elastic/idea-indexing-metrics-collector)
 * [Issue Tracker](https://github.com/elastic/idea-indexing-metrics-collector/issues)
 
